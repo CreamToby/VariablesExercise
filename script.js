@@ -42,7 +42,7 @@ console.log(nickel);  // 0.05
 console.log(penny); // 0.01
 
 // 3
-let letters = "qwertyuiop"
+let letters = "qwertyuiop";
 // console.log(letters); // qwertyuiop
 
 // 4
